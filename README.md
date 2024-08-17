@@ -14,7 +14,7 @@
  
  🌱 I’m interested in **Cyber Security and Web Development**
 
-💬 Ask me about ** Cyber Security [here](https://github.com/Shub95-arch/Shub95-arch/issues)**
+💬 Ask me about **Cyber Security [here](https://github.com/Shub95-arch/Shub95-arch/issues)**
 
 📫 **Contact me on Telegram** : @securenet_global
 
