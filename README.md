@@ -69,9 +69,9 @@
 
 <br/>
 
-<div align="center" color="blue">
-Crypto: USDT
-Network: Tron ( TRC 20)
+<div align="center">
+Crypto: USDT </br> 
+Network: Tron ( TRC 20) </br> 
 USDT Address: 
 TSiXk7D5namc89jzQrTprgPDWHsu9LgqJN
        
