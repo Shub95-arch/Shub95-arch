@@ -20,6 +20,9 @@
 
  </div>
  
+
+
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/userbadge/cm2g455jd156030cl58fqa7j91)
 <div align="center"> 
   <a href="mailto:shubhamkr1177@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,8 +34,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/userbadge/cm2g455jd156030cl58fqa7j91)
 
  <hr/>
  
